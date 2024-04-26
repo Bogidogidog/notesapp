@@ -17,7 +17,7 @@ Docker: Docker Compose for containerization
 Installation
 
 Clone this repository:
-git clone https://github.com/yourusername/notes-app.git
+git clone https://github.com/bogidogidog/notesapp.git
 Navigate to the project directory:
 
 cd notesapp
