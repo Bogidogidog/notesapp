@@ -43,8 +43,6 @@ if(isset($_POST['submit'])){
                 $_SESSION['signin'] = "Please check your input";
             }
         }else{
-            $a = mysqli_num_rows($fetch_user_result);
-            echo mysqli_num_rows($fetch_user_result);
             $_SESSION['signin'] = "User Not found";
         }
     }
